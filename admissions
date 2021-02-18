@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>admissions</title>
+</head>
+<body style="background-color:dimgray;">
+<h2>REQUIREMENTS</h2>
+<p>
+<ul><b>Nationality</b>
+<ul><em>Should be of Indian nationality</em>
+</ul>
+</ul>
+<ul>
+<b>Academic Requirements</b>
+<ul>
+<em>Candidates should have completed their 12th standard qualifying examination in 2020. Those candidates who will qualify in 2021 will also be termed eligible.</em>
+</ul>
+</ul>
+<ul>
+<b>Subjects</b>
+<ul>
+<em>Should have studied Mathematics, Chemistry, and Physics as compulsory in 11th and 12th standard.</em>
+</ul>
+</ul>
+<ul>
+<b>Marks Required</b>
+<ul>
+<em>At least 60% aggregate marks or 6CGPA (55% in the case of CBSE and ICSE) should have been scored in the qualifying exam.</em>
+</ul>
+</ul>
+<h3>To register please fill the following details</h3>
+<form>
+STUDENT NAME:
+<input type=text name="fname" placeholder="ENTER STUDENT NAME"><br/><br/>
+INTERESTED COURSE:
+<input type=text name="fname" placeholder="ENER COURSE"><br/><br/>
+MOBILE NUMBER:
+<input type=text name="fname" placeholder="ENTER MOBILE NUMBER"><br/><br/>
+<input type="submit" name="submit">
+</form>
+</body>
+</html>
