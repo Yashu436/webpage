@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>GITAM website</title>
+</head>
+<body style="background-color:cornflowerblue;">
+<a href="C:\Users\vaishnavi\OneDrive\Desktop\sem 6\web tech\home.html" target="downframe">HOME</a>
+<a href="C:\Users\vaishnavi\OneDrive\Desktop\sem 6\web tech\academics.htm" target="downframe" text-align:center;>ACADEMICS</a>
+<a href="C:\Users\vaishnavi\OneDrive\Desktop\sem 6\web tech\admissions.htm" target="downframe">ADMISSIONS</a>
+<a href="C:\Users\vaishnavi\OneDrive\Desktop\sem 6\web tech\contact_us.html" target="downframe">CONTACT_US</a>
+</body>
+</html>
